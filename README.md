@@ -24,3 +24,20 @@ Curated list of awesome free forensic analysis tools and resources.
 | `turbinia` | Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms | [github](https://github.com/google/turbinia) |
 | `IPED - Indexador e Processador de Evidências Digitais` | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | [github](https://github.com/sepinf-inc/IPED) |
 | `Wombat Forensics` | Wombat Forensics is a new Forensic Analysis tool built entirely in C and C++. The GUI is built using Qt5, so it may one day work on Windows, Linux and Macintosh systems. | [github](https://github.com/pjrinaldi/wombatforensics) |
+
+## Live Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `grr` | GRR Rapid Response: remote live forensics for incident response. | [github](https://github.com/google/grr) |
+| `Linux Expl0rer` | Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask. | [github](https://github.com/intezer/linux-explorer) |
+| `mig` | Distributed & real time digital forensics at the speed of the cloud. | [github](https://github.com/mozilla/mig) |
+| `osquery` | SQL powered operating system analytics. | [github](https://github.com/osquery/osquery) |
+| `UAC` | UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris. | [github](https://github.com/tclahr/uac) |
+
+## IOC Scanner
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Fenrir` | Fenrir is a simple IOC scanner bash script. | [github](https://github.com/Neo23x0/Fenrir) |
+| `Loki` | Scanner for Simple Indicators of Compromise. | [github](https://github.com/Neo23x0/Loki) |
+| `Redline` | Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. | [Download](https://www.fireeye.com/services/freeware/redline.html) |
+| `THOR Lite` | THOR Lite includes the file system and process scan module as well as module that extracts “autoruns” information on the different platforms. | [Download](https://www.nextron-systems.com/thor-lite/) |
