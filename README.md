@@ -25,6 +25,16 @@ Curated list of awesome free forensic analysis tools and resources.
 | `IPED - Indexador e Processador de Evidências Digitais` | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | [github](https://github.com/sepinf-inc/IPED) |
 | `Wombat Forensics` | Wombat Forensics is a new Forensic Analysis tool built entirely in C and C++. The GUI is built using Qt5, so it may one day work on Windows, Linux and Macintosh systems. | [github](https://github.com/pjrinaldi/wombatforensics) |
 
+## Memory Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `inVtero.net` | High speed memory analysis framework developed in .NET supports all Windows x64, includes code integrity and write support. | [github](https://github.com/ShaneK2/inVtero.net) |
+| `KeeFarce` | Extracts passwords from a KeePass 2.x database, directly from memory. | [github](https://github.com/denandz/KeeFarce) |
+| `MemProcFS` | An easy and convenient way of accessing physical memory as files a virtual file system. | [github](https://github.com/ufrisk/MemProcFS) |
+| `Rekall` | Rekall Memory Forensic Framework. | [github](https://github.com/google/rekall) |
+| `volatility` | The Volatility Framework is a completely open collection of tools,implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. | [github](https://github.com/volatilityfoundation/volatility) |
+| `VolUtility` | Web App for Volatility framework. | [github](https://github.com/kevthehermit/VolUtility) |
+
 ## Live Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
@@ -41,3 +51,11 @@ Curated list of awesome free forensic analysis tools and resources.
 | `Loki` | Scanner for Simple Indicators of Compromise. | [github](https://github.com/Neo23x0/Loki) |
 | `Redline` | Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. | [Download](https://www.fireeye.com/services/freeware/redline.html) |
 | `THOR Lite` | THOR Lite includes the file system and process scan module as well as module that extracts “autoruns” information on the different platforms. | [Download](https://www.nextron-systems.com/thor-lite/) |
+
+## Imaging
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `dc3dd` | A patch to the GNU dd program, this version has several features intended for forensic acquisition of data. Highlights include hashing on-the-fly, split output files, pattern writing, a progress meter, and file verification. | [Download](https://sourceforge.net/projects/dc3dd/) |
+| `dcfldd` | dcfldd is an enhanced version of GNU dd with features useful for forensics and security. | [Download](http://dcfldd.sourceforge.net/) |
+| `FTK Imager` | Free imageing tool for windows. | [Download](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) |
+| `Guymager` | Open source version for disk imageing on linux systems. | [Download](https://guymager.sourceforge.io/) |
