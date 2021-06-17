@@ -35,6 +35,12 @@ Curated list of awesome free forensic analysis tools and resources.
 | `volatility` | The Volatility Framework is a completely open collection of tools,implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. | [github](https://github.com/volatilityfoundation/volatility) |
 | `VolUtility` | Web App for Volatility framework. | [github](https://github.com/kevthehermit/VolUtility) |
 
+## Network Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `NetworkMiner` | NetworkMiner is an open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. | [Download](https://www.netresec.com/?page=Networkminer) |
+| `Wireshark` | Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. | [Download](https://www.wireshark.org/) |
+
 ## Live Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
@@ -59,3 +65,14 @@ Curated list of awesome free forensic analysis tools and resources.
 | `dcfldd` | dcfldd is an enhanced version of GNU dd with features useful for forensics and security. | [Download](http://dcfldd.sourceforge.net/) |
 | `FTK Imager` | Free imageing tool for windows. | [Download](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) |
 | `Guymager` | Open source version for disk imageing on linux systems. | [Download](https://guymager.sourceforge.io/) |
+
+## Windows Artifacts
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Beagle` | Transform data sources and logs into graphs. | [github](https://github.com/yampelo/beagle) |
+| `FRED` | Cross-platform microsoft registry hive editor. | [Download](https://www.pinguin.lu/fred) |
+| `LastActivityView` | LastActivityView by Nirsoftis a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. | [Download](https://www.nirsoft.net/utils/computer_activity_view.html) |
+| `LogonTracer` | Investigate malicious Windows logon by visualizing and analyzing Windows event log. | [github](https://github.com/JPCERTCC/LogonTracer) |
+| `python-evt` | Pure Python parser for classic Windows Event Log files (.evt). | [github](https://github.com/williballenthin/python-evt) |
+| `RegRipper3.0` | RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis. | [github](https://github.com/keydet89/RegRipper3.0) |
+| `RegRippy` | A framework for reading and extracting useful forensics data from Windows registry hives. | [github](https://github.com/airbus-cert/regrippy) | 
