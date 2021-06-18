@@ -76,3 +76,13 @@ Curated list of awesome free forensic analysis tools and resources.
 | `python-evt` | Pure Python parser for classic Windows Event Log files (.evt). | [github](https://github.com/williballenthin/python-evt) |
 | `RegRipper3.0` | RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis. | [github](https://github.com/keydet89/RegRipper3.0) |
 | `RegRippy` | A framework for reading and extracting useful forensics data from Windows registry hives. | [github](https://github.com/airbus-cert/regrippy) | 
+
+## OS X Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| APFS Fuse | This project is a read-only FUSE driver for the new Apple File System. It also supports software encrypted volumes and fusion drives. Firmlinks are not supported yet. | [github](https://github.com/sgan81/apfs-fuse) |
+| mac_apt (macOS Artifact Parsing Tool) | mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. | [github](https://github.com/ydkhatri/mac_apt) |
+| MacLocationsScraper | Dump the contents of the location database files on iOS and macOS. | [github](https://github.com/mac4n6/Mac-Locations-Scraper) |
+| macMRUParser | Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format. | [github](https://github.com/mac4n6/macMRU-Parser) |
+| OSXAuditor | OS X Auditor is a free Mac OS X computer forensics tool. | [github](https://github.com/jipegit/OSXAuditor) |
+| OSX Collect | OSXCollector is a forensic evidence collection & analysis toolkit for OSX. | [github](https://github.com/Yelp/osxcollector) |
