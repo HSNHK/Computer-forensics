@@ -80,9 +80,25 @@ Curated list of awesome free forensic analysis tools and resources.
 ## OS X Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
-| APFS Fuse | This project is a read-only FUSE driver for the new Apple File System. It also supports software encrypted volumes and fusion drives. Firmlinks are not supported yet. | [github](https://github.com/sgan81/apfs-fuse) |
-| mac_apt (macOS Artifact Parsing Tool) | mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. | [github](https://github.com/ydkhatri/mac_apt) |
-| MacLocationsScraper | Dump the contents of the location database files on iOS and macOS. | [github](https://github.com/mac4n6/Mac-Locations-Scraper) |
-| macMRUParser | Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format. | [github](https://github.com/mac4n6/macMRU-Parser) |
-| OSXAuditor | OS X Auditor is a free Mac OS X computer forensics tool. | [github](https://github.com/jipegit/OSXAuditor) |
-| OSX Collect | OSXCollector is a forensic evidence collection & analysis toolkit for OSX. | [github](https://github.com/Yelp/osxcollector) |
+| `APFS Fuse` | This project is a read-only FUSE driver for the new Apple File System. It also supports software encrypted volumes and fusion drives. Firmlinks are not supported yet. | [github](https://github.com/sgan81/apfs-fuse) |
+| `mac_apt (macOS Artifact Parsing Tool)` | mac_apt is a DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. | [github](https://github.com/ydkhatri/mac_apt) |
+| `MacLocationsScraper` | Dump the contents of the location database files on iOS and macOS. | [github](https://github.com/mac4n6/Mac-Locations-Scraper) |
+| `macMRUParser` | Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format. | [github](https://github.com/mac4n6/macMRU-Parser) |
+| `OSXAuditor` | OS X Auditor is a free Mac OS X computer forensics tool. | [github](https://github.com/jipegit/OSXAuditor) |
+| `OSX Collect` | OSXCollector is a forensic evidence collection & analysis toolkit for OSX. | [github](https://github.com/Yelp/osxcollector) |
+## Mobile Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Andriller` | Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. | [github](https://github.com/den4uk/andriller) |
+| `ALEAPP` | Android Logs Events And Protobuf Parser. | [github](https://github.com/abrignoni/ALEAPP) |
+| `ArtEx` | DoubleBlak Digital Forensics is a Digital Forensics web site aimed at helping forensic examiners. I am Ian Whiffin, an ex-Law Enforcement Officer / Digital Forensics Examiner with a mid-sized municipal police agency. | [Download](https://www.doubleblak.com/index.php) |
+| `iLEAPP` | An iOS Logs, Events, And Plists Parser. | [github](https://github.com/abrignoni/iLEAPP) | 
+| `iOS Frequent Locations Dumper` | Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/ | [github](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper) | 
+| `MEAT` | Perform different kinds of acquisitions on iOS devices. | [github](https://github.com/jfarley248/MEAT) |
+| `MobSF` | An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | [github](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
+| `OpenBackupExtractor` | An app for extracting data from iPhone and iPad backups. | [github](https://github.com/vgmoose/OpenBackupExtractor) |
+## Docker Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `dof (Docker Forensics Toolkit)` | A toolkit for the post-mortem examination of Docker containers from forensic HDD copies. | [github](https://github.com/docker-forensics-toolkit/toolkit) |
+| `Docker Explorer` | Extracts and interprets forensic artifacts from disk images of Docker Host systems. | [github](https://github.com/google/docker-explorer) |
