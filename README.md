@@ -1,3 +1,10 @@
+[![HSNHK - Computer-forensics](https://img.shields.io/static/v1?label=HSNHK&message=Computer-forensics&color=blue&logo=github)](https://github.com/HSNHK/Computer-forensics)
+[![stars - Computer-forensics](https://img.shields.io/github/stars/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
+[![forks - Computer-forensics](https://img.shields.io/github/forks/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
+[![GitHub tag](https://img.shields.io/github/tag/HSNHK/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/HSNHK/Computer-forensics/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - Computer-forensics](https://img.shields.io/github/issues/HSNHK/Computer-forensics)](https://github.com/HSNHK/Computer-forensics/issues)
+
 # Computer Forensics
 Curated list of awesome free forensic analysis tools and resources.
 
@@ -102,3 +109,21 @@ Curated list of awesome free forensic analysis tools and resources.
 | ----- | ------------ | -------- |
 | `dof (Docker Forensics Toolkit)` | A toolkit for the post-mortem examination of Docker containers from forensic HDD copies. | [github](https://github.com/docker-forensics-toolkit/toolkit) |
 | `Docker Explorer` | Extracts and interprets forensic artifacts from disk images of Docker Host systems. | [github](https://github.com/google/docker-explorer) |
+
+## Picture Analysis
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Ghiro` | A fully automated tool designed to run forensics analysis over a massive amount of images. | [Download](http://www.getghiro.org/) | 
+| `sherloq` | Forensic Image Analysis is the application of image science and domain expertise to interpret the content of an image and/or the image itself in legal matters. | [github](https://github.com/GuidoBartoli/sherloq) |
+## Metadata Forensics
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `ExifTool` | ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. | [Download](https://exiftool.org/) |
+| `FOCA` | FOCA is a tool used mainly to find metadata and hidden information in the documents. | [github](https://github.com/ElevenPaths/FOCA) |
+## Steganography
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Sonicvisualizer` | Sonic Visualiser is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. | [Download](https://www.sonicvisualiser.org/) |
+| `Steghide` | is a steganography program that hides data in various kinds of image and audio files. | [github](https://github.com/StefanoDeVuono/steghide) |
+| `Wavsteg` | A steganographic coder for WAV files. [github](https://github.com/samolds/wavsteg) | 
+| `Zsteg` | A steganographic coder for WAV files. | [github](https://github.com/zed-0xff/zsteg) |
