@@ -127,3 +127,22 @@ Curated list of awesome free forensic analysis tools and resources.
 | `Steghide` | is a steganography program that hides data in various kinds of image and audio files. | [github](https://github.com/StefanoDeVuono/steghide) |
 | `Wavsteg` | A steganographic coder for WAV files. [github](https://github.com/samolds/wavsteg) | 
 | `Zsteg` | A steganographic coder for WAV files. | [github](https://github.com/zed-0xff/zsteg) |
+## Management
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `dfirtrack` | Digital Forensics and Incident Response Tracking application, track systems. | [github](https://github.com/dfirtrack/dfirtrack) |
+| `Incidents` | Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads. | [github](https://github.com/veeral-patel/incidents) |
+## Decryption 
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `hashcat` | Fast password cracker with GPU support | [Download](https://hashcat.net/hashcat/) |
+| `John the Ripper` | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.) These are just some of the examples - there are many more. | [Download](https://www.openwall.com/john/)|
+
+## Disk image handling
+| Name  | Descriptions | Download | 
+| ----- | ------------ | -------- |
+| `Disk Arbitrator` | A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device. | [github](https://github.com/aburgh/Disk-Arbitrator) |
+| `imagemounter` | Command line utility and Python package to ease the (un)mounting of forensic disk images. | [github](https://github.com/ralphje/imagemounter) |
+| `libewf` | Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01). | [github](https://github.com/libyal/libewf) |
+| `PancakeViewer` | Disk image viewer based in dfvfs, similar to the FTK Imager viewer. | [github](https://github.com/forensicmatt/PancakeViewer) |
+| `xmount` | Convert between different disk image formats. | [Download](https://www.pinguin.lu/xmount) |
