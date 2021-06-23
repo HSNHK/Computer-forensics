@@ -1,14 +1,33 @@
-[![HSNHK - Computer-forensics](https://img.shields.io/static/v1?label=HSNHK&message=Computer-forensics&color=blue&logo=github)](https://github.com/HSNHK/Computer-forensics)
+# 🕵️‍♂️ Computer Forensics [![HSNHK - Computer-forensics](https://img.shields.io/static/v1?label=HSNHK&message=Computer-forensics&color=blue&logo=github)](https://github.com/HSNHK/Computer-forensics)
 [![stars - Computer-forensics](https://img.shields.io/github/stars/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
 [![forks - Computer-forensics](https://img.shields.io/github/forks/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
 [![GitHub tag](https://img.shields.io/github/tag/HSNHK/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/HSNHK/Computer-forensics/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - Computer-forensics](https://img.shields.io/github/issues/HSNHK/Computer-forensics)](https://github.com/HSNHK/Computer-forensics/issues)
 
-# Computer Forensics
 Curated list of awesome free forensic analysis tools and resources.
 
-## Distributions
+* [Computer Forensics](https://github.com/HSNHK/Computer-forensics)
+  * [Distributions](https://github.com/HSNHK/Computer-forensics#distributions)
+  * [Frameworks](https://github.com/HSNHK/Computer-forensics#frameworks)
+  * [Memory Forensics](https://github.com/HSNHK/Computer-forensics#memory-forensics)
+  * [Network Forensics](https://github.com/HSNHK/Computer-forensics#network-forensics)
+  * [Live Forensics](https://github.com/HSNHK/Computer-forensics#live-forensics)
+  * [IOC Scanner](https://github.com/HSNHK/Computer-forensics#ioc-scanner)
+  * [Imaging](https://github.com/HSNHK/Computer-forensics#imaging)
+  * [Windows Artifacts](https://github.com/HSNHK/Computer-forensics#Windows-Artifacts)
+  * [OS X Forensics](https://github.com/HSNHK/Computer-forensics#OS-X-Forensics)
+  * [Mobile Forensics](https://github.com/HSNHK/Computer-forensics#Mobile-Forensics)
+  * [Docker Forensics](https://github.com/HSNHK/Computer-forensics#Docker-Forensics)
+  * [Picture Analysis](https://github.com/HSNHK/Computer-forensics#Picture-Analysis)
+  * [Metadata Forensics](https://github.com/HSNHK/Computer-forensics#Metadata-Forensics)
+  * [Steganography](https://github.com/HSNHK/Computer-forensics#Steganography)
+  * [Management](https://github.com/HSNHK/Computer-forensics#Management)
+  * [Decryption](https://github.com/HSNHK/Computer-forensics#Decryption)
+  * [Disk image handling](https://github.com/HSNHK/Computer-forensics#Disk-image-handling)
+  
+
+## 📟 Distributions
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `bitscout` | Bitscout is customizable live OS constructor tool written entirely in bash. It's main purpose is to help you quickly create own remote forensics bootable disk image. | [github](https://github.com/vitaly-kamluk/bitscout) |
@@ -17,7 +36,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `Tsurugi Linux` | Tsurugi Linux is a DFIR open source project that is and will be totally free, independent, without involving any commercial brand Our main goal is share knowledge and "give back to the community" | [Download](https://tsurugi-linux.org/) |
 | `WinFE` | As a result of this, WinFE will now load on UEFI as well as legacy systems, without changing BIOS settings. This means that devices, such as the Microsoft Surface Pro can be easily forensically imaged. BitLocker is also supported providing that you have access to either the unlock key or password. | [Download](https://www.winfe.net/home) |
 
-## Frameworks
+## 📔 Frameworks
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Autopsy` | Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card. | [Download](http://www.sleuthkit.org/autopsy/) |
@@ -32,7 +51,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `IPED - Indexador e Processador de Evidências Digitais` | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | [github](https://github.com/sepinf-inc/IPED) |
 | `Wombat Forensics` | Wombat Forensics is a new Forensic Analysis tool built entirely in C and C++. The GUI is built using Qt5, so it may one day work on Windows, Linux and Macintosh systems. | [github](https://github.com/pjrinaldi/wombatforensics) |
 
-## Memory Forensics
+## 🔬 Memory Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `inVtero.net` | High speed memory analysis framework developed in .NET supports all Windows x64, includes code integrity and write support. | [github](https://github.com/ShaneK2/inVtero.net) |
@@ -42,13 +61,13 @@ Curated list of awesome free forensic analysis tools and resources.
 | `volatility` | The Volatility Framework is a completely open collection of tools,implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. | [github](https://github.com/volatilityfoundation/volatility) |
 | `VolUtility` | Web App for Volatility framework. | [github](https://github.com/kevthehermit/VolUtility) |
 
-## Network Forensics
+## 📡 Network Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `NetworkMiner` | NetworkMiner is an open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. | [Download](https://www.netresec.com/?page=Networkminer) |
 | `Wireshark` | Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. | [Download](https://www.wireshark.org/) |
 
-## Live Forensics
+## 🔪 Live Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `grr` | GRR Rapid Response: remote live forensics for incident response. | [github](https://github.com/google/grr) |
@@ -57,7 +76,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `osquery` | SQL powered operating system analytics. | [github](https://github.com/osquery/osquery) |
 | `UAC` | UAC (Unix-like Artifacts Collector) is a Live Response collection tool for Incident Reponse that makes use of built-in tools to automate the collection of Unix-like systems artifacts. Supported systems: AIX, FreeBSD, Linux, macOS, NetBSD, Netscaler, OpenBSD and Solaris. | [github](https://github.com/tclahr/uac) |
 
-## IOC Scanner
+## 📎 IOC Scanner
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Fenrir` | Fenrir is a simple IOC scanner bash script. | [github](https://github.com/Neo23x0/Fenrir) |
@@ -65,7 +84,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `Redline` | Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile. | [Download](https://www.fireeye.com/services/freeware/redline.html) |
 | `THOR Lite` | THOR Lite includes the file system and process scan module as well as module that extracts “autoruns” information on the different platforms. | [Download](https://www.nextron-systems.com/thor-lite/) |
 
-## Imaging
+## 📷 Imaging
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `dc3dd` | A patch to the GNU dd program, this version has several features intended for forensic acquisition of data. Highlights include hashing on-the-fly, split output files, pattern writing, a progress meter, and file verification. | [Download](https://sourceforge.net/projects/dc3dd/) |
@@ -73,7 +92,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `FTK Imager` | Free imageing tool for windows. | [Download](https://accessdata.com/product-download/ftk-imager-version-3-4-3/) |
 | `Guymager` | Open source version for disk imageing on linux systems. | [Download](https://guymager.sourceforge.io/) |
 
-## Windows Artifacts
+## 🏢 Windows Artifacts
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Beagle` | Transform data sources and logs into graphs. | [github](https://github.com/yampelo/beagle) |
@@ -84,7 +103,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `RegRipper3.0` | RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis. | [github](https://github.com/keydet89/RegRipper3.0) |
 | `RegRippy` | A framework for reading and extracting useful forensics data from Windows registry hives. | [github](https://github.com/airbus-cert/regrippy) | 
 
-## OS X Forensics
+## 🍏 OS X Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `APFS Fuse` | This project is a read-only FUSE driver for the new Apple File System. It also supports software encrypted volumes and fusion drives. Firmlinks are not supported yet. | [github](https://github.com/sgan81/apfs-fuse) |
@@ -93,7 +112,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `macMRUParser` | Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format. | [github](https://github.com/mac4n6/macMRU-Parser) |
 | `OSXAuditor` | OS X Auditor is a free Mac OS X computer forensics tool. | [github](https://github.com/jipegit/OSXAuditor) |
 | `OSX Collect` | OSXCollector is a forensic evidence collection & analysis toolkit for OSX. | [github](https://github.com/Yelp/osxcollector) |
-## Mobile Forensics
+## 📱 Mobile Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Andriller` | Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices. | [github](https://github.com/den4uk/andriller) |
@@ -104,41 +123,41 @@ Curated list of awesome free forensic analysis tools and resources.
 | `MEAT` | Perform different kinds of acquisitions on iOS devices. | [github](https://github.com/jfarley248/MEAT) |
 | `MobSF` | An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. | [github](https://github.com/MobSF/Mobile-Security-Framework-MobSF) |
 | `OpenBackupExtractor` | An app for extracting data from iPhone and iPad backups. | [github](https://github.com/vgmoose/OpenBackupExtractor) |
-## Docker Forensics
+## 👮‍♂️ Docker Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `dof (Docker Forensics Toolkit)` | A toolkit for the post-mortem examination of Docker containers from forensic HDD copies. | [github](https://github.com/docker-forensics-toolkit/toolkit) |
 | `Docker Explorer` | Extracts and interprets forensic artifacts from disk images of Docker Host systems. | [github](https://github.com/google/docker-explorer) |
 
-## Picture Analysis
+## 📸 Picture Analysis
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Ghiro` | A fully automated tool designed to run forensics analysis over a massive amount of images. | [Download](http://www.getghiro.org/) | 
 | `sherloq` | Forensic Image Analysis is the application of image science and domain expertise to interpret the content of an image and/or the image itself in legal matters. | [github](https://github.com/GuidoBartoli/sherloq) |
-## Metadata Forensics
+## 📚 Metadata Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `ExifTool` | ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. | [Download](https://exiftool.org/) |
 | `FOCA` | FOCA is a tool used mainly to find metadata and hidden information in the documents. | [github](https://github.com/ElevenPaths/FOCA) |
-## Steganography
+## 🔎 Steganography
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Sonicvisualizer` | Sonic Visualiser is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. | [Download](https://www.sonicvisualiser.org/) |
 | `Steghide` | is a steganography program that hides data in various kinds of image and audio files. | [github](https://github.com/StefanoDeVuono/steghide) |
 | `Wavsteg` | A steganographic coder for WAV files. [github](https://github.com/samolds/wavsteg) | 
 | `Zsteg` | A steganographic coder for WAV files. | [github](https://github.com/zed-0xff/zsteg) |
-## Management
+## ⚙ Management
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `dfirtrack` | Digital Forensics and Incident Response Tracking application, track systems. | [github](https://github.com/dfirtrack/dfirtrack) |
 | `Incidents` | Web application for organizing non-trivial security investigations. Built on the idea that incidents are trees of tickets, where some tickets are leads. | [github](https://github.com/veeral-patel/incidents) |
-## Decryption 
+## 🔩 Decryption 
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `hashcat` | Fast password cracker with GPU support | [Download](https://hashcat.net/hashcat/) |
 | `John the Ripper` | John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.) These are just some of the examples - there are many more. | [Download](https://www.openwall.com/john/)|
 
-## Disk image handling
+## 📀 Disk image handling
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
 | `Disk Arbitrator` | A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device. | [github](https://github.com/aburgh/Disk-Arbitrator) |
@@ -146,3 +165,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `libewf` | Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01). | [github](https://github.com/libyal/libewf) |
 | `PancakeViewer` | Disk image viewer based in dfvfs, similar to the FTK Imager viewer. | [github](https://github.com/forensicmatt/PancakeViewer) |
 | `xmount` | Convert between different disk image formats. | [Download](https://www.pinguin.lu/xmount) |
+
+## License
+
+Released under [MIT](/LICENSE) by [@HSNHK](https://github.com/HSNHK).
