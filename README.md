@@ -25,6 +25,7 @@ Curated list of awesome free forensic analysis tools and resources.
   * [Management](#-management)
   * [Decryption](#-decryption)
   * [Disk image handling](#-disk-image-handling)
+  * [Resources](#-resources)
   
 
 ## 📟 Distributions
@@ -165,6 +166,16 @@ Curated list of awesome free forensic analysis tools and resources.
 | `libewf` | Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01). | [github](https://github.com/libyal/libewf) |
 | `PancakeViewer` | Disk image viewer based in dfvfs, similar to the FTK Imager viewer. | [github](https://github.com/forensicmatt/PancakeViewer) |
 | `xmount` | Convert between different disk image formats. | [Download](https://www.pinguin.lu/xmount) |
+
+## 📔 resources
+| Name  | detail  | 
+| ----- | --------|
+| `Learning Network Forensics` | [Learning Network Forensics by packt](https://www.packtpub.com/product/learning-network-forensics/9781782174905) |
+| `Steganography for the Computer Forensics` | [An Overview of Steganography forthe Computer Forensics Examiner](https://www.garykessler.net/library/fsc_stego.html) |
+| `image forensics` | [Learning Rich Features for Image Manipulation Detection.](https://www.lense.fr/wp-content/uploads/2018/06/Ai-Adobe-rvle-image-truque.pdf) |
+| `Docker Forensics` | [Docker Forensics for Containers](https://www.openshift.com/blog/docker-forensics-for-containers-how-to-conduct-investigations) |
+| `memory forensics` | [Learn Windows memory forensics](https://www.udemy.com/course/surviving-digital-forensics-memory-analysis-1/) |
+| `Smartphone Forensic` | [Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/) |
 
 ## License
 
