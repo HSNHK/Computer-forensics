@@ -51,6 +51,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `turbinia` | Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms | [github](https://github.com/google/turbinia) |
 | `IPED - Indexador e Processador de Evidências Digitais` | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. | [github](https://github.com/sepinf-inc/IPED) |
 | `Wombat Forensics` | Wombat Forensics is a new Forensic Analysis tool built entirely in C and C++. The GUI is built using Qt5, so it may one day work on Windows, Linux and Macintosh systems. | [github](https://github.com/pjrinaldi/wombatforensics) |
+| `binwalk` | Firmware Analysis Tool | [github](https://github.com/ReFirmLabs/binwalk) | 
 
 ## 🔬 Memory Forensics
 | Name  | Descriptions | Download | 
@@ -135,6 +136,8 @@ Curated list of awesome free forensic analysis tools and resources.
 | ----- | ------------ | -------- |
 | `Ghiro` | A fully automated tool designed to run forensics analysis over a massive amount of images. | [Download](http://www.getghiro.org/) | 
 | `sherloq` | Forensic Image Analysis is the application of image science and domain expertise to interpret the content of an image and/or the image itself in legal matters. | [github](https://github.com/GuidoBartoli/sherloq) |
+| `Image Analyzer` | is a program that you can use to view and edit image files. The interface of the tool is plain and easy to navigate through. Image Analyzer definitely needs some improvements when it comes to its appearance, since it’s a little outdated. Pictures can be opened via the file browser only, since the “drag and drop” method is not supported. So, you can configure file format options, such as compression level, transparent color key, quality and file size. | [Download](https://socketzone.com/image-analyzer-1-41-for-windows/) |
+| `pngcheck` | pngcheck verifies the integrity of PNG, JNG and MNG files (by checking the internal 32-bit CRCs, a.k.a. checksums, and decompressing the image data); it can optionally dump almost all of the chunk-level information in the image in human-readable form. For example, it can be used to print the basic statistics about an image (dimensions, bit depth, etc.); to list the color and transparency info in its palette (assuming it has one); or to extract the embedded text annotations. This is a command-line program with batch capabilities. | [Download](http://www.libpng.org/pub/png/apps/pngcheck.html) | 
 ## 📚 Metadata Forensics
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
@@ -147,6 +150,7 @@ Curated list of awesome free forensic analysis tools and resources.
 | `Steghide` | is a steganography program that hides data in various kinds of image and audio files. | [github](https://github.com/StefanoDeVuono/steghide) |
 | `Wavsteg` | A steganographic coder for WAV files. [github](https://github.com/samolds/wavsteg) | 
 | `Zsteg` | A steganographic coder for WAV files. | [github](https://github.com/zed-0xff/zsteg) |
+| `Outguess` | Outguess is an advanced steganography tool. Outguess will conceal your document inside image (JPG) of your choice. | [github](https://github.com/crorvick/outguess) |
 ## ⚙ Management
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
