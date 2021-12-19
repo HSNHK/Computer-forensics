@@ -148,9 +148,20 @@ Curated list of awesome free forensic analysis tools and resources.
 | ----- | ------------ | -------- |
 | `Sonicvisualizer` | Sonic Visualiser is a free, open-source application for Windows, Linux, and Mac, designed to be the first program you reach for when want to study a music recording closely. | [Download](https://www.sonicvisualiser.org/) |
 | `Steghide` | is a steganography program that hides data in various kinds of image and audio files. | [github](https://github.com/StefanoDeVuono/steghide) |
-| `Wavsteg` | A steganographic coder for WAV files. [github](https://github.com/samolds/wavsteg) | 
+| `Wavsteg` | A steganographic coder for WAV files. | [github](https://github.com/samolds/wavsteg) | 
 | `Zsteg` | A steganographic coder for WAV files. | [github](https://github.com/zed-0xff/zsteg) |
 | `Outguess` | Outguess is an advanced steganography tool. Outguess will conceal your document inside image (JPG) of your choice. | [github](https://github.com/crorvick/outguess) |
+| `Xiao Steganography` | Xiao Steganography is free software that can be used to hide secret files in BMP images or WAV files. | [Download](https://download.cnet.com/Xiao-Steganography/3000-2092_4-10541494.html) |
+| `Crypture` | Crypture is another command-line tool that performs steganography. You can use this tool to hide your sensitive data inside a BMP image file. | [Download](https://sourceforge.net/projects/crypture/) |
+| `SteganographX Plus` | SteganographX Plus is another small tool that lets you hide your confidential data inside a BMP image. | [Download](https://www.bestfreewaredownload.com/freeware/t-free-steganographx-plus-freeware-yeipgmrk.html) |
+| `rSteg` | rSteg is a Java-based tool that lets you hide textual data inside an image. It has two buttons: one to encrypt and second to decrypt the text. | [Download](http://www.softpedia.com/get/Security/Security-Related/rSteg.shtml) |
+| `SSuite Picsel` | SSuite Picsel is a free portable application to hide text inside an image file. | [Download](https://www.ssuitesoft.com/ssuitepicselsecurity.htm) |
+| `Our Secret` | Our Secret is another tool that is used to hide sensitive information in a file. | [Download](http://steganography.findmysoft.com/) |
+| `Camouflage` | Camouflage is another steganography tool that lets you hide any type of file inside of a file. | [Download](http://camouflage.unfiction.com/Download.html) |
+| `OpenStego` | You can hide data in these files and take output as a PNG file. The same software will be used to reveal data from the output file. It also uses a password to encrypt your data along with hiding inside the image file. This tool is open-source and developed in Java. | [Download](http://sourceforge.net/projects/openstego/files/) |
+| `SteganPEG` | SteganPEG lets you hide any kind of file in a JPG image file. You can attach any file and give a password to hide inside a JPG file. | [Download](https://www.softpedia.com/get/Security/Encrypting/SteganPEG.shtml) |
+| `Hide’N’Send` | Hide’N’Send is a small utility which offers steganography. | [Download](https://download.cnet.com/Hide-N-Send/3000-2092_4-75728348.html) |
+
 ## ⚙ Management
 | Name  | Descriptions | Download | 
 | ----- | ------------ | -------- |
