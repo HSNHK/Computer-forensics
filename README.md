@@ -161,6 +161,15 @@ Curated list of awesome free forensic analysis tools and resources.
 | `OpenStego` | You can hide data in these files and take output as a PNG file. The same software will be used to reveal data from the output file. It also uses a password to encrypt your data along with hiding inside the image file. This tool is open-source and developed in Java. | [Download](http://sourceforge.net/projects/openstego/files/) |
 | `SteganPEG` | SteganPEG lets you hide any kind of file in a JPG image file. You can attach any file and give a password to hide inside a JPG file. | [Download](https://www.softpedia.com/get/Security/Encrypting/SteganPEG.shtml) |
 | `Hide’N’Send` | Hide’N’Send is a small utility which offers steganography. | [Download](https://download.cnet.com/Hide-N-Send/3000-2092_4-75728348.html) |
+| `exif` | exif is a small command-line utility to show and change EXIF information in JPEG files. | [Download](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) | 
+| `AperiSolve` | Aperi'Solve is a platform which performs layer analysis on image (open-source). | [WebPage](https://aperisolve.fr/) |
+| `Exiv2` | Image metadata manipulation tool. | [Download](http://www.exiv2.org/manpage.html) | 
+| `Image Steganography` | Embeds text and files in images with optional encryption. Easy-to-use UI. | [Download](https://sourceforge.net/projects/image-steg/) |
+| `Pngtools` | For various analysis related to PNGs. | [Download](https://packages.debian.org/sid/pngtools) | 
+| `Steganabara` | Tool for stegano analysis written in Java. | [Download](https://www.openhub.net/p/steganabara) |
+| `stegbreak` | The stegbreak states a brute-force dictionary attack against the specified JPG images. | [Download](https://linux.die.net/man/1/stegbreak) |
+| `StegCracker` | Steganography brute-force utility to uncover hidden data inside files. | [github](https://github.com/Paradoxis/StegCracker) |
+| `stegextract` | Detect hidden files and text in images. | [github](https://github.com/evyatarmeged/stegextract) |
 
 ## ⚙ Management
 | Name  | Descriptions | Download | 
