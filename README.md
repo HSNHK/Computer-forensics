@@ -1,4 +1,5 @@
-# 🕵️‍♂️ Computer Forensics [![HSNHK - Computer-forensics](https://img.shields.io/static/v1?label=HSNHK&message=Computer-forensics&color=blue&logo=github)](https://github.com/HSNHK/Computer-forensics)
+# 🕵️‍♂️ Computer Forensics 
+[![HSNHK - Computer-forensics](https://img.shields.io/static/v1?label=HSNHK&message=Computer-forensics&color=blue&logo=github)](https://github.com/HSNHK/Computer-forensics)
 [![stars - Computer-forensics](https://img.shields.io/github/stars/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
 [![forks - Computer-forensics](https://img.shields.io/github/forks/HSNHK/Computer-forensics?style=social)](https://github.com/HSNHK/Computer-forensics)
 [![GitHub tag](https://img.shields.io/github/tag/HSNHK/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/HSNHK/Computer-forensics/releases/)
@@ -6,7 +7,8 @@
 [![issues - Computer-forensics](https://img.shields.io/github/issues/HSNHK/Computer-forensics)](https://github.com/HSNHK/Computer-forensics/issues)
 
 Curated list of awesome free forensic analysis tools and resources.
-
+<a href="#license"><img align="right" src="resources/images/logo.png"></a>
+<br>
 * [Computer Forensics](https://github.com/HSNHK/Computer-forensics)
   * [Distributions](#-distributions)
   * [Frameworks](#-frameworks)
